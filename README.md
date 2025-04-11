@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2159-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
