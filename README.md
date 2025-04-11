@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2159-two-out-of-three](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2159-two-out-of-three) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2159-two-out-of-three](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
