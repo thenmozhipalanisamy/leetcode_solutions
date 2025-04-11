@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2159-two-out-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
