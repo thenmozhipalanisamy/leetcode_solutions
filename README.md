@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
