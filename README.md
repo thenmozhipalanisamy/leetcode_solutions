@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0768-partition-labels) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2159-two-out-of-three](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2159-two-out-of-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0768-partition-labels) |
 | [2117-find-original-array-from-doubled-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2117-find-original-array-from-doubled-array) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0768-partition-labels](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0768-partition-labels) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
