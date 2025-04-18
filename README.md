@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/thenmozhipalanisamy/leetcode_solutions/tree/master/0768-partition-labels) |
